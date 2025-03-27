@@ -2,3 +2,4 @@ Flask
 Scikit-Learn
 joblib
 gunicorn
+pandas
